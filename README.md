@@ -1,13 +1,13 @@
-# ChatGPT 中文版：国内直连指南（支持 GPT-4、GPT-4o、o1、o3 和 Claude、Grok3，无需翻墙）【2025-05-07 更新】        
+# ChatGPT 中文版：国内直连指南（支持 GPT-4、GPT-4o、o1、o3 和 Claude、Grok3，无需翻墙）【2025-05-11 更新】        
 
-**全面体验 [ChatGPT 中文版](https://chat.yixiaai.com)，无需翻墙即可使用 GPT-4、Claude、Grok 及多功能应用！**   
-本指南旨在为用户提供全面的 **[ChatGPT 中文版](https://chat.yixiaai.com)使用指南**，并整理了国内优选的 [**ChatGPT 镜像网站**](https://chat.yixiaai.com) 和**官网使用教程**，帮助您快速上手，不论是个人使用还是专业需求~
+**全面体验 [ChatGPT 中文版](https://chat.lanjing.pro)，无需翻墙即可使用 GPT-4、Claude、Grok 及多功能应用！**   
+本指南旨在为用户提供全面的 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，并整理了国内优选的 [**ChatGPT 镜像网站**](https://chat.xsimple.top) 和**官网使用教程**，帮助您快速上手，不论是个人使用还是专业需求~
 
 ---
 
 ## ChatGPT 中文版 是什么？
 
-[**ChatGPT 中文版**](https://chat.yixiaai.com) 是基于 OpenAI 的 ChatGPT 模型的中文定制版本，专为中文用户设计，提供更流畅、更精准的智能AI对话。在很多方面更适合国内用户：
+[**ChatGPT 中文版**](https://chat.lanjing.pro) 是基于 OpenAI 的 ChatGPT 模型的中文定制版本，专为中文用户设计，提供更流畅、更精准的智能AI对话。在很多方面更适合国内用户：
 
 - **中文语境**：更流畅、更智能的中文对话能力，适合学习、办公和日常生活使用。
 - **国内直连**：无需翻墙，通过国内镜像网站就能使用~
